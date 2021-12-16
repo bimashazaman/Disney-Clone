@@ -12,24 +12,6 @@ const Movies = () => {
             alt=''
           />
         </Wrap>
-        <Wrap>
-          <img
-            src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.oL8HzdJT37s55zyqV6m18QHaK8%26pid%3DApi&f=1'
-            alt=''
-          />
-        </Wrap>
-        <Wrap>
-          <img
-            src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.oL8HzdJT37s55zyqV6m18QHaK8%26pid%3DApi&f=1'
-            alt=''
-          />
-        </Wrap>
-        <Wrap>
-          <img
-            src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.oL8HzdJT37s55zyqV6m18QHaK8%26pid%3DApi&f=1'
-            alt=''
-          />
-        </Wrap>
       </Content>
     </Container>
   )
