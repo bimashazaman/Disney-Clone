@@ -12,6 +12,52 @@ const Movies = () => {
             alt=''
           />
         </Wrap>
+
+        <Wrap>
+          <img
+            src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fusercontent1.hubstatic.com%2F14061960_f1024.jpg&f=1&nofb=1'
+            alt=''
+          />
+        </Wrap>
+
+        <Wrap>
+          <img
+            src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwebneel.com%2Fdaily%2Fsites%2Fdefault%2Ffiles%2Fimages%2Fdaily%2F03-2018%2F3-poster-stolen-princess-animation-movies-2018.jpg&f=1&nofb=1'
+            alt=''
+          />
+        </Wrap>
+
+        <Wrap>
+          <img
+            src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftiffanyyong.com%2Fwp-content%2Fuploads%2F2017%2F03%2FA-Silent-Voice-Anime-Poster.jpg&f=1&nofb=1'
+            alt=''
+          />
+        </Wrap>
+        <Wrap>
+          <img
+            src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.9kHZLoPXB2oFIwY29a-SxwHaL2%26pid%3DApi&f=1'
+            alt=''
+          />
+        </Wrap>
+
+        <Wrap>
+          <img
+            src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.F6h1vf-DiHHoYN1-ChJzZAAAAA%26pid%3DApi&f=1'
+            alt=''
+          />
+        </Wrap>
+        <Wrap>
+          <img
+            src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tazUeP9Z1RxANyYamvYNqwHaKk%26pid%3DApi&f=1'
+            alt=''
+          />
+        </Wrap>
+        <Wrap>
+          <img
+            src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftiffanyyong.com%2Fwp-content%2Fuploads%2F2017%2F03%2FA-Silent-Voice-Anime-Poster.jpg&f=1&nofb=1'
+            alt=''
+          />
+        </Wrap>
       </Content>
     </Container>
   )
